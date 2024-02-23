@@ -1,0 +1,18 @@
+#site {
+    background-color: rgb(136, 126, 223);
+    text-align: center;
+}
+
+#pages {
+    background-color: rgb(136, 126, 223);
+    text-align: center;
+}
+
+#recipes.text {
+    color: rgb(255, 255, 255);
+}
+#recipes{
+    background-color: rgb(175, 175, 175);
+    color: rgb(0, 0, 0);
+}
+
