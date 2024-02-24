@@ -1,18 +1,43 @@
 #site {
-    background-color: rgb(136, 126, 223);
     text-align: center;
 }
 
 #pages {
-    background-color: rgb(136, 126, 223);
+    background-color: rgb(255, 255, 255);
     text-align: center;
 }
+    
 
 #recipes.text {
-    color: rgb(255, 255, 255);
-}
-#recipes{
-    background-color: rgb(175, 175, 175);
-    color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0); 
+    
 }
 
+#recipes{
+    background-color: #00aeff;
+    margin: 10px auto;
+    padding: 10px;
+    width: 400px;
+    
+
+}
+
+a:link{
+    color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.title {
+
+}
